@@ -25,4 +25,6 @@ Misturando __*Configurações*__
 - [x] Aula 02 
 - [ ] Etc...
 ---
+![image](https://github.com/FelipeDestroo/Ola-Mundo/assets/122558891/c68b9269-10dc-49d5-b123-2d2a537c9a8d) [Acesse aqui meu Linkedin](linkedin.com/in/felipedestro/)
+
 
