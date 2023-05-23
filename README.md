@@ -26,5 +26,13 @@ Misturando __*Configurações*__
 - [ ] Etc...
 ---
 ![image](https://github.com/FelipeDestroo/Ola-Mundo/assets/122558891/c68b9269-10dc-49d5-b123-2d2a537c9a8d) [Acesse aqui meu Linkedin](https://linkedin.com/in/felipedestro/)
+***
+**Tabela**
+Num|Nome|Nota
+---|---|---
+1|Felipe|10
+2|Pedro|9
+3|Leonardo|10
+
 
 
