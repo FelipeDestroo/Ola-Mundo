@@ -30,9 +30,20 @@ Misturando __*Configurações*__
 **Tabela**
 Num|Nome|Nota
 ---|---|---
-1|Felipe|10
-2|Pedro|9
-3|Leonardo|10
+1|Felipe|10,0
+2|Pedro|9,0
+3|Leonardo|8,5
+***
+**Meu programa em Python:**
+```
+num = int(input('Digite um valor')
+if num %2 == 0:
+ print(f'O valor {num} é PAR')
+else:
+ printf(f' O valor {num} é IMPAR')
+```
+---
+**Por enquanto é isso** 🖤
 
 
 
